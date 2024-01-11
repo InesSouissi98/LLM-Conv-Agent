@@ -10,4 +10,5 @@ This project is about a Conversational LLM Agent, augmented with a continual lea
 Tools : <br>
 Programming language: Python, NLP <br>
 Library: ConversationSummaryMemory <br>
-Model: HuggingFaceH4/zephyr-7b-beta model API: Hugging Face API Key 
+Model: HuggingFaceH4/zephyr-7b-beta <br>
+model API: Hugging Face API Key 
